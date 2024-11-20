@@ -59,7 +59,7 @@ app.frame('/', (c) => {
     intents: [
       // Tombol Claim $SOCIAL langsung mengarah ke halaman compose
       <Button.Link
-        href="https://warpcast.com/~/compose?text=I%20just%20claimed%20$SOCIAL%20via%20@0xhen!&embeds[]=https://0xhen-frame-user.vercel.app/api"
+        href="https://warpcast.com/~/compose?text=Claiming my @socialtoken airdrop and crediting @0xhen with my social airdrop for being a good friend%20&embeds[]=https://social-claimer-frame.vercel.app/api"
       >
         🎁Claim $SOCIAL
       </Button.Link>,
